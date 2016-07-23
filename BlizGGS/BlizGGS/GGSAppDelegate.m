@@ -6,13 +6,13 @@
 //  Copyright © 2016年 KongBo. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "GGSAppDelegate.h"
 
-@interface AppDelegate ()
+@interface GGSAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation GGSAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {

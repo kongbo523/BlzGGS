@@ -6,13 +6,13 @@
 //  Copyright © 2016年 KongBo. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "GGSMainViewController.h"
 
-@interface ViewController ()
+@interface GGSMainViewController ()
 
 @end
 
-@implementation ViewController
+@implementation GGSMainViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
