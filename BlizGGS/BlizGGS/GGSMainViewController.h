@@ -10,6 +10,7 @@
 
 @interface GGSMainViewController : UIViewController
 
+- (NSString *)title;
 
 @end
 

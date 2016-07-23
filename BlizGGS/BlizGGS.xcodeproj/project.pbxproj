@@ -16,6 +16,7 @@
 		F09BDFA91D4321D4000EC875 /* GGSBundle.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = F09BDFA81D4321D4000EC875 /* GGSBundle.h */; };
 		F09BDFAB1D4321D4000EC875 /* GGSBundle.m in Sources */ = {isa = PBXBuildFile; fileRef = F09BDFAA1D4321D4000EC875 /* GGSBundle.m */; };
 		F09BDFAF1D4325C5000EC875 /* GGSMainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F09BDF921D432088000EC875 /* GGSMainViewController.m */; };
+		F09BDFC61D4337C2000EC875 /* GGSMainViewController.h in CopyFiles */ = {isa = PBXBuildFile; fileRef = F09BDF911D432088000EC875 /* GGSMainViewController.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,7 @@
 			dstPath = "include/$(PRODUCT_NAME)";
 			dstSubfolderSpec = 16;
 			files = (
+				F09BDFC61D4337C2000EC875 /* GGSMainViewController.h in CopyFiles */,
 				F09BDFA91D4321D4000EC875 /* GGSBundle.h in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
